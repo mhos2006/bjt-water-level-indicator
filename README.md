@@ -24,6 +24,8 @@ To achieve my 5V power rail, I used a battery pack regulated to output 5V. Here 
 
 https://github.com/user-attachments/assets/e5b6b6be-7824-49d6-9163-9148845a0b6e
 
+## Schematic and PCB Documentation
 
+I created the schematic using KiCad software. While my schematic has been verified, I have moved the components over to PCB software. PCB layout and component placement is in progress.
 
 
